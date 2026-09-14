@@ -1,3 +1,6 @@
+#student grade manager
+#collects student names and marks,sorts students by marks
+#assigns grades and displays summary statistics
 students = []
 while True:
     try:
