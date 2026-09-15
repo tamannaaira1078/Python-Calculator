@@ -28,3 +28,13 @@ This repository contains Python projects I built while practicing programming fu
 - Exception handling
 - List comprehensions
 - Input validation
+### CSV Student Report Manager
+- Reads student data from a CSV file
+- Uses `csv.DictReader`
+- Assigns grades based on marks
+- Calculates average, highest, and lowest marks
+- Displays the total number of students
+##Skill Practiced
+ -Reading CSV files
+- `csv.DictReader`
+- Working with external data
